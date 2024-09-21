@@ -7,12 +7,12 @@ Recoding of printf: in C language, printf is used to write formatted output to t
 
 1. Clone repository
     ```bash
-    git clone git@github.com:teresa-chow/42-libft.git
+    git clone git@github.com:mjorgecruz/42_ft_printf.git
     ```
 
 2. Go inside project directory and run `make`
     ```bash
-    cd libft
+    cd 42_ft_printf
     make
     ```
 3. To use the library in your code, `#include` the following header
